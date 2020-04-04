@@ -1,3 +1,3 @@
-# Coursera_Capstone
-Contains final assignment(s) for Coursera IBM Certification Capstone.
+# Coursera
 
+Contains few assignments done in Coursera. Will be occasionally updated.
